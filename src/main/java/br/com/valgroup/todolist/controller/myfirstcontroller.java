@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/primeiraRota")
-//http://localhost:8888/primeiraRota ---------
+//http://localhost:8080/primeiraRota ---------
 public class myfirstcontroller {
 
     /** METODOS de acesso do HTTP:
