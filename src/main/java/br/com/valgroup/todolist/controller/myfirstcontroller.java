@@ -18,7 +18,7 @@ public class myfirstcontroller {
      * 
      */
     //Metodo (funcionalidade) de uma classe:
-    @GetMapping("/")
+    @GetMapping("/primeiroMetodo")
     public String primeiraMensagem() {
         return "Funcionou";
     }
