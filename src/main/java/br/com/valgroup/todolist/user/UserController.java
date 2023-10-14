@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  * protected
  */
  @RestController
- @RequestMapping("/users")
+ @RequestMapping("/user")
 public class UserController {
 
     /**
